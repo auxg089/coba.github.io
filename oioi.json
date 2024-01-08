@@ -15,7 +15,7 @@
         },
         {
             "id": "3",
-            "nama_warung": "KINFOLK KAFIJA hidden coffee bar, Rukan grand ketintang Rukan grand ketintang, Ketintang, Gayungan, Surabaya, East Java 60231, Indonesia",
+            "nama_warung": ""Warung Joglo, 181, Jalan Ketintang, RW 04, Wonokromo, Surabaya, Jawa Timur, Jawa, 60231, Indonesia"",
             "deskripsi_warung": "Menyajikan Berbagai Kopi, Makanan dan Minuman",
             "telepon": "081244223459",
             "Owner": "Surya",
@@ -28,7 +28,7 @@
         },
         {
             "id": "2",
-            "nama_lapangan": "The Rocketman Coffee Gayungan, Jl. Ketintang Baru Sel. I No.3 Blok A3, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231, Indonesia",
+            "nama_lapangan": "Warung Joglo, 181, Jalan Ketintang, RW 04, Wonokromo, Surabaya, Jawa Timur, Jawa, 60231, Indonesia",
             "deskripsi_lapangan": "Cafe and Resto",
             "telepon": "081288725709",
             "Owner": "Gading",
@@ -41,7 +41,7 @@
         },
         {
             "id": "1",
-            "nama_lapangan": "Time Coffee, Jl. Ketintang Baru Selatan V No.A1-2, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231, Indonesia",
+            "nama_lapangan": "Warung Surabaya, Jalan Raya Andong, Kutuh, Ubud, Gianyar, Bali, Nusa Tenggara, 80571, Indonesia",
             "deskripsi_lapangan": "Menyajikan Berbagai Kopi",
             "telepon": "081285578400",
             "Owner": "Sanjani",
